@@ -53,3 +53,11 @@ Foi criada a classe ServicoCalculoFatura, que implementa todas as funções de c
 
 ![alt text](/imagens/image14.png)
 Execução após alterações.
+
+Passo 8 - Criação de repositório
+
+![alt text](/imagens/image15.png)
+Foi criada a classe de repositório que faz a conexão com os aruqivos json.
+
+![alt text](/imagens/image16.png)
+Execução após alteraões.
