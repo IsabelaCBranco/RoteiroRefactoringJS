@@ -43,5 +43,13 @@ Passo 6 - Geraçao da fatura em HTML
 ![alt text](/imagens/image11.png)
 Criação da fatura em HTML.
 
-![alt text](image.png)
+![alt text](/imagens/image12.png)
+Execução após alterações.
+
+Passo 7 - Criação da Classe de Serviço
+
+![alt text](/imagens/image13.png)
+Foi criada a classe ServicoCalculoFatura, que implementa todas as funções de cálculo.
+
+![alt text](/imagens/image14.png)
 Execução após alterações.
