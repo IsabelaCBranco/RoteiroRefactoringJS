@@ -61,3 +61,11 @@ Foi criada a classe de repositório que faz a conexão com os aruqivos json.
 
 ![alt text](/imagens/image16.png)
 Execução após alteraões.
+
+Passo 9 -
+
+![alt text](/imagens/image17.png)
+Separação das funções por arquivos diferentes.
+
+![alt text](/imagens/image18.png)
+Execução após alterações.
