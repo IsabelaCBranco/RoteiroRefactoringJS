@@ -33,7 +33,15 @@ Execução após alterações.
 Passo 5 - Movendo funções
 
 ![alt text](/imagens/image9.png)
-Retiramos as funções criadas de dentro da função gerarFatura
+Retiramos as funções criadas de dentro da função gerarFatura.
 
 ![alt text](/imagens/image10.png)
-Execução após alterações
+Execução após alterações.
+
+Passo 6 - Geraçao da fatura em HTML
+
+![alt text](/imagens/image11.png)
+Criação da fatura em HTML.
+
+![alt text](image.png)
+Execução após alterações.
