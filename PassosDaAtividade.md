@@ -27,5 +27,13 @@ Passo 4 - Separação das apresentações dos calculos
 ![alt text](/imagens/image7.png)
 Foram cradas as funções calcularTotalFatura e calcularTotalCreditos e foram substituidos os valores das variáveis, agora elas chamam as funções.
 
-![alt text](image.png)
+![alt text](/imagens/image8.png)
 Execução após alterações.
+
+Passo 5 - Movendo funções
+
+![alt text](/imagens/image9.png)
+Retiramos as funções criadas de dentro da função gerarFatura
+
+![alt text](/imagens/image10.png)
+Execução após alterações
