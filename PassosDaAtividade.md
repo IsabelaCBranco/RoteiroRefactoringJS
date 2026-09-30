@@ -8,8 +8,16 @@ Execução do programa após alteração
 
 Passo 2 - Substituição temp por query
 
-![alt text](image.png)
+![alt text](/imagens/image3.png)
 Foi deletada a variavel peca, e doi criada uma função getPeca; Foi alterado todos os lugares que faziam uso da variável atiga pela função nova.
 
-![alt text](image-1.png)  
+![alt text](/imagens/image4.png)  
 Execução após açteração
+
+Passo 3 - Extração de novas funções
+
+![alt text](/imagens/image5.png)
+Foram criadas mais 2 funções a função de formatação de moeda e a função de calculo de crédito, e tambem foram alterados os lugares onde estava sendo chamanda a variável antiga pela função nova
+
+![alt text](/imagens/image6.png)
+Execução após alteração
